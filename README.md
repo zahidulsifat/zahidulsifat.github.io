@@ -11,4 +11,4 @@ My Portfolio Website
 ## Author
 * Zahidul Sifat
 ## Base Author
-*Ali Solanki
+* Ali Solanki
