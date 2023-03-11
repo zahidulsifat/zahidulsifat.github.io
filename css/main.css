@@ -943,6 +943,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	height: .6rem;
 	background: #a1a1a1;
 	width: 100%;
+	border-radius: 10px;
 	margin-bottom: 6rem;
 	padding: 0;
 	position: relative;
@@ -2333,6 +2334,7 @@ header{
 	padding: 0 3rem;
 	margin-top: 4.8rem;
 	width: 100%;
+	border-radius: 10px;
 	background: #FF0077;
 	color: #FFFFFF;
 }
